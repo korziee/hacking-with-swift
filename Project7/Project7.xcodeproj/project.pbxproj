@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		950C3C98251B5B9200358BA7 /* Petition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950C3C97251B5B9200358BA7 /* Petition.swift */; };
 		950C3C9A251B5BD000358BA7 /* Petitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950C3C99251B5BD000358BA7 /* Petitions.swift */; };
+		950C3C9C251BF1D500358BA7 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950C3C9B251BF1D500358BA7 /* DetailViewController.swift */; };
 		9591498A251AA00A00363D69 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95914989251AA00A00363D69 /* AppDelegate.swift */; };
 		9591498C251AA00A00363D69 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9591498B251AA00A00363D69 /* SceneDelegate.swift */; };
 		9591498E251AA00A00363D69 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9591498D251AA00A00363D69 /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		950C3C97251B5B9200358BA7 /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
 		950C3C99251B5BD000358BA7 /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
+		950C3C9B251BF1D500358BA7 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		95914986251AA00A00363D69 /* Project7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project7.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95914989251AA00A00363D69 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9591498B251AA00A00363D69 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				95914989251AA00A00363D69 /* AppDelegate.swift */,
 				9591498B251AA00A00363D69 /* SceneDelegate.swift */,
 				9591498D251AA00A00363D69 /* ViewController.swift */,
+				950C3C9B251BF1D500358BA7 /* DetailViewController.swift */,
 				950C3C97251B5B9200358BA7 /* Petition.swift */,
 				950C3C99251B5BD000358BA7 /* Petitions.swift */,
 				9591498F251AA00A00363D69 /* Main.storyboard */,
@@ -147,6 +150,7 @@
 				9591498E251AA00A00363D69 /* ViewController.swift in Sources */,
 				950C3C98251B5B9200358BA7 /* Petition.swift in Sources */,
 				9591498A251AA00A00363D69 /* AppDelegate.swift in Sources */,
+				950C3C9C251BF1D500358BA7 /* DetailViewController.swift in Sources */,
 				9591498C251AA00A00363D69 /* SceneDelegate.swift in Sources */,
 				950C3C9A251B5BD000358BA7 /* Petitions.swift in Sources */,
 			);
